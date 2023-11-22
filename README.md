@@ -1,6 +1,8 @@
 # Image Processing Mini Project
 __Face Mask Detection__
 
+**Download the 'dataset' folder from here** - [Link](https://drive.google.com/drive/folders/1pEcEzpmA1aCwWRwO6p-a5ZQbzITG1ZdS?usp=sharing)
+
 **Training the model**   
 **Steps :**  
 i.Open 'Train_FaceMaskDetect_Model.ipynb' in google colab   
