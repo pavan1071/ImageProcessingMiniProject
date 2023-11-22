@@ -13,12 +13,12 @@ v.Download the model - 'mask_detector.model'
 
 **a.In real time:**  
 i.Open 'detect_mask_live.py'  
-ii.Update the paths  
+ii.Update the paths of face detector, saved model  
 iii.Run it  
 
 **b.For given video as input:**  
 i.Open 'detect_mask_video.py'  
 ii.Keep a sample video in the current directory  
-iii.Update the paths  
+iii.Update the paths of face detector, saved model and sample video  
 iv.Run it  
 
